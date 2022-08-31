@@ -139,7 +139,7 @@ class App extends React.Component {
           
         },
         {
-          src: '/images/Hallway.jpeg',
+          src: '/images/Hallway.jpg',
           dots: [
             {
               dotPosition: { left: 170, top: 380 }, // 原点位置，设置 left top 值调整
