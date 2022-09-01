@@ -112,27 +112,27 @@ class App extends React.Component {
           src: '/images/kitchen.jpg',
           dots: [
             {
-              dotPosition: { left: 170, top: 380 }, // 原点位置，设置 left top 值调整
-              contentPosition: { left: 100, top: 320 }, // 内容位置
-              content: 'Put a no-slip rubber mat on the floor of the bathtub or shower', // 内容
+              dotPosition: { left: 170, top: 330 }, // 原点位置，设置 left top 值调整
+              contentPosition: { left: 100, top: 335 }, // 内容位置
+              content: 'Immediately clean spills on floors.', // 内容
               display: false // 内容是否显示
             },
             {
-              dotPosition: { left: 335, top: 39 },
-              contentPosition: { left: 250, top: 50 },
-              content: 'Have good lighting in the bathroom.',
+              dotPosition: { left: 280, top: 140 },
+              contentPosition: { left: 220, top: 100 },
+              content: 'Install bright lights in the kitchens.',
               display: false
             },
             {
-              dotPosition: { left: 370, top: 300 },
-              contentPosition: { left: 280, top: 310 },
-              content: 'Have grab bars near toilets and on both the inside and outside of your tub and shower.',
+              dotPosition: { left: 480, top: 255 },
+              contentPosition: { left: 350, top: 260 },
+              content: 'Keep frenquently used items within easy reach.',
               display: false
             },
             {
-              dotPosition: { left: 300, top: 430 },
+              dotPosition: { left: 300, top: 380 },
               contentPosition: { left: 200, top: 380 },
-              content: 'Put a non-slip bath mat in fornt of the shower to dry wet feet.',
+              content: 'Use non-slip rugs on the floor. ',
               display: false
             },
           ]
@@ -142,29 +142,18 @@ class App extends React.Component {
           src: '/images/Hallway.jpg',
           dots: [
             {
-              dotPosition: { left: 170, top: 380 }, // 原点位置，设置 left top 值调整
+              dotPosition: { left: 230, top: 380 }, // 原点位置，设置 left top 值调整
               contentPosition: { left: 100, top: 320 }, // 内容位置
-              content: 'Put a no-slip rubber mat on the floor of the bathtub or shower', // 内容
+              content: 'Keep areas where you walk tidy. Do not leave books,papers,clothes,or other objects on the floor or stairs.', // 内容
               display: false // 内容是否显示
             },
             {
-              dotPosition: { left: 335, top: 39 },
-              contentPosition: { left: 250, top: 50 },
-              content: 'Have good lighting in the bathroom.',
+              dotPosition: { left: 460, top: 350 },
+              contentPosition: { left: 400, top: 300 },
+              content: 'Keep doorways clear so that it is easy to walk through.',
               display: false
             },
-            {
-              dotPosition: { left: 370, top: 300 },
-              contentPosition: { left: 280, top: 310 },
-              content: 'Have grab bars near toilets and on both the inside and outside of your tub and shower.',
-              display: false
-            },
-            {
-              dotPosition: { left: 300, top: 430 },
-              contentPosition: { left: 200, top: 380 },
-              content: 'Put a non-slip bath mat in fornt of the shower to dry wet feet.',
-              display: false
-            },
+            
           ]
           
         },
@@ -172,29 +161,24 @@ class App extends React.Component {
           src: '/images/Livingroom.jpg',
           dots: [
             {
-              dotPosition: { left: 170, top: 380 }, // 原点位置，设置 left top 值调整
-              contentPosition: { left: 100, top: 320 }, // 内容位置
-              content: 'Put a no-slip rubber mat on the floor of the bathtub or shower', // 内容
+              dotPosition: { left: 50, top: 440}, // 原点位置，设置 left top 值调整
+              contentPosition: { left: 30, top: 400 }, // 内容位置
+              content: 'Secure all carpets and rugs firmly to the floor.', // 内容
               display: false // 内容是否显示
             },
             {
-              dotPosition: { left: 335, top: 39 },
-              contentPosition: { left: 250, top: 50 },
+              dotPosition: { left: 150, top: 180 },
+              contentPosition: { left: 100, top: 185 },
               content: 'Have good lighting in the bathroom.',
               display: false
             },
             {
-              dotPosition: { left: 370, top: 300 },
-              contentPosition: { left: 280, top: 310 },
-              content: 'Have grab bars near toilets and on both the inside and outside of your tub and shower.',
+              dotPosition: { left: 300, top: 440 },
+              contentPosition: { left: 310, top: 400 },
+              content: 'Arrange furniture and other objects so they are not in the way when you walk.',
               display: false
             },
-            {
-              dotPosition: { left: 300, top: 430 },
-              contentPosition: { left: 200, top: 380 },
-              content: 'Put a non-slip bath mat in fornt of the shower to dry wet feet.',
-              display: false
-            },
+           
           ]
           
         },
