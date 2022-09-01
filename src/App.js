@@ -34,7 +34,7 @@ class App extends React.Component {
             },
             {
               dotPosition: { left: 500, top: 300 },
-              contentPosition: { left: 400, top: 250 },
+              contentPosition: { left: 400, top: 230 },
               content: 'Make sure the carpet is firmly attached to every step.',
               display: false
 
@@ -59,20 +59,20 @@ class App extends React.Component {
             },
             {
               dotPosition: { left: 500, top: 400 },
-              contentPosition: { left: 400, top: 350 },
+              contentPosition: { left: 400, top: 340 },
               content: 'Make sure carpets and rugs near the bed are not slippery and secured to the floor.',
               display: false
             },
             {
               dotPosition: { left: 250, top: 250 },
-              contentPosition: { left: 150, top: 200 },
+              contentPosition: { left: 150, top: 190 },
               content: 'Keep the phone near the bed in case of emergency.',
               display: false
 
             },
             {
               dotPosition: { left: 450, top: 250 },
-              contentPosition: { left: 350, top: 210 },
+              contentPosition: { left: 350, top: 190 },
               content: 'Have a lamp close to the bed where it is easy to reach the switch.',
               display: false
 
@@ -102,7 +102,7 @@ class App extends React.Component {
             },
             {
               dotPosition: { left: 300, top: 430 },
-              contentPosition: { left: 200, top: 380 },
+              contentPosition: { left: 200, top: 370 },
               content: 'Put a non-slip bath mat in fornt of the shower to dry wet feet.',
               display: false
             },
@@ -143,13 +143,13 @@ class App extends React.Component {
           dots: [
             {
               dotPosition: { left: 230, top: 380 }, // 原点位置，设置 left top 值调整
-              contentPosition: { left: 100, top: 320 }, // 内容位置
+              contentPosition: { left: 100, top: 300 }, // 内容位置
               content: 'Keep areas where you walk tidy. Do not leave books,papers,clothes,or other objects on the floor or stairs.', // 内容
               display: false // 内容是否显示
             },
             {
               dotPosition: { left: 460, top: 350 },
-              contentPosition: { left: 400, top: 300 },
+              contentPosition: { left: 400, top: 290 },
               content: 'Keep doorways clear so that it is easy to walk through.',
               display: false
             },
