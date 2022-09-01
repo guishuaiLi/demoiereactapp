@@ -22,7 +22,7 @@ class App extends React.Component {
           dots: [
             {
               dotPosition: { left: 250, top: 315 }, // 原点位置，设置 left top 值调整
-              contentPosition: { left: 200, top: 270}, // 内容位置
+              contentPosition: { left: 200, top: 250}, // 内容位置
               content: 'Check that all carpets are fixed firmly to the floor so they will not slip', // 内容
               display: false // 内容是否显示
             },
@@ -96,7 +96,7 @@ class App extends React.Component {
             },
             {
               dotPosition: { left: 370, top: 300 },
-              contentPosition: { left: 280, top: 310 },
+              contentPosition: { left: 290, top: 310 },
               content: 'Have grab bars near toilets and on both the inside and outside of your tub and shower.',
               display: false
             },
